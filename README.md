@@ -24,3 +24,4 @@ Exercice: Entrainer un PINN pour simuler le système (oscillateur harmonique amo
 *Bonus: Entrainer un PINN pour inverser les paramètres sous-jacents*
 
 
+Aknowledgments in the notebooks
