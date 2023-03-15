@@ -8,7 +8,7 @@
 
 Introduction aux processus gaussiens, fondements mathématiques en 30’
 Exercice: Je programme mon GPR 30’
-
+Attention  bruiter les données quand on utilise sigma_n comme bruit
 
 **Part 2. processus gaussiens versus réseaux de neurones**
 
