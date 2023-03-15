@@ -3,6 +3,26 @@
 
 *Verified on colab*
 
+**Part 1. Gaussian processes Regressioon**
+
+Introduction to Gaussian processes, mathematical foundations in 30’
+Exercise: How can I program my GPR 30’
+Beware of noisy data when using sigma_n as noise !
+
+**Part 2. Gaussian processes versus neural networks**
+
+Large-scale illustration, hyper parameter tuning, soundtrack in 30’
+Exercise: How do I use toolboxes on more complex examples 45’
+
+**Part 3. Physics Informed Neural Networks {PINN}**
+
+What is a PINN knowing a NN? in 15'
+Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic oscillator) in 30’
+
+
+*Bonus: Train a PINN to reverse the underlying parameters*
+
+in french 
 
 **Part 1. Régression par processus gaussiens**
 
