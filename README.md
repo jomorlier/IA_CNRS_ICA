@@ -45,3 +45,10 @@ Exercice: Entrainer un PINN pour simuler le système (oscillateur harmonique amo
 
 
 Aknowledgments in the notebooks
+
+**Online references**
+
+https://neurips.cc/virtual/2021/tutorial/21890
+http://www.infinitecuriosity.org/vizgp/
+https://distill.pub/2019/visual-exploration-gaussian-processes/
+
