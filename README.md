@@ -1,14 +1,16 @@
 # IA_CNRS_ICA
 **Noteboook and Data for ICA's course on IA**
 
-A  very good introduction by Prof. Sid Kumar
+**Part 0. A  very good introduction by Prof. Sid Kumar**
+
 [Machine Learning Applications in Material Science - Part 1](https://www.youtube.com/watch?v=Z84uQhrNc70)
+
 [Machine Learning Applications in Material Science - Part 2](https://www.youtube.com/watch?v=G6fb162N5ys)
 
 
 *Verified on colab*
 
-**Part 1. Gaussian processes Regressioon**
+**Part 1. Gaussian processes Regression**
 
 Introduction to Gaussian processes, mathematical foundations in 30’
 Exercise: How can I program my GPR 30’
