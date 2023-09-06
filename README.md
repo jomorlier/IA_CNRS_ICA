@@ -1,6 +1,11 @@
 # IA_CNRS_ICA
 **Noteboook and Data for ICA's course on IA**
 
+A  very good introduction by Prof. Sid Kumar
+[Machine Learning Applications in Material Science - Part 1](https://www.youtube.com/watch?v=Z84uQhrNc70)
+[Machine Learning Applications in Material Science - Part 2](https://www.youtube.com/watch?v=G6fb162N5ys)
+
+
 *Verified on colab*
 
 **Part 1. Gaussian processes Regressioon**
@@ -11,13 +16,17 @@ Beware of noisy data when using sigma_n as noise !
 
 **Part 2. Gaussian processes versus neural networks**
 
+Inspired by Prof. Miguel Bessa Imechanica
 Large-scale illustration, hyper parameter tuning, soundtrack in 30’
 Exercise: How do I use toolboxes on more complex examples 45’
 
 **Part 3. Physics Informed Neural Networks {PINN}**
 
 What is a PINN knowing a NN? in 15'
-Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic oscillator) in 30’
+Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic oscillator) in 30’s
+
+[Solution in video](https://www.youtube.com/watch?v=G_hIppUWcsc)
+
 
 
 *Bonus: Train a PINN to reverse the underlying parameters*
