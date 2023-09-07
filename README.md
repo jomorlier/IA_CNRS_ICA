@@ -7,6 +7,7 @@
 
 [Machine Learning Applications in Material Science - Part 2](https://www.youtube.com/watch?v=G6fb162N5ys)
 
+Notebooks will come
 
 *Verified on colab*
 
@@ -19,7 +20,7 @@ Beware of noisy data when using sigma_n as noise !
 **Part 2. Gaussian processes versus neural networks**
 
 Inspired by Prof. Miguel Bessa Imechanica
-Large-scale illustration, hyper parameter tuning, soundtrack in 30’
+Large-scale illustration, hyper parameter tuning, BO in 30’
 Exercise: How do I use toolboxes on more complex examples 45’
 
 **Part 3. Physics Informed Neural Networks {PINN}**
