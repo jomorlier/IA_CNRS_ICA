@@ -1,4 +1,5 @@
-# IA_CNRS_ICA
+# IA_3A_SM
+
 **Noteboook and Data for ICA's course on IA**
 
 **Part 0. A  very good introduction by Prof. Sid Kumar**
