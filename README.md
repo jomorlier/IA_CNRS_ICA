@@ -1,6 +1,6 @@
 # IA_3A_SM
 
-**Noteboook and Data for ICA's course on IA**
+**Noteboook and Data for course on IA for SM**
 
 **Part 0. A  very good introduction by Prof. Sid Kumar**
 
