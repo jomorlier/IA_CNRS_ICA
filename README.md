@@ -31,29 +31,15 @@ Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic osci
 
 [Solution in video](https://www.youtube.com/watch?v=G_hIppUWcsc)
 
-## **Part 4. Building a VAE for Topology Optimization and a Convolutional VAE**
 
 **Part 4. Variational Autoencoder (VAE) for Topology Optimization and Convolutional VAE**
-
-- **Tutorial Overview:**  
-  In this exercise, you will learn how to build a Variational Autoencoder (VAE) tailored for topology optimization. Additionally, a variant using convolutional layers—a Convolutional VAE—is presented for handling image-like data with spatial structure.
-
-- **What You Will Learn:**  
   - The basics of variational autoencoders  
   - How to design and train a VAE model  
   - How to implement a Convolutional VAE for topology optimization tasks  
   - Best practices for loss functions and optimization in generative models  
 
-- **Practical Exercise:**  
-  Follow the provided tutorial notebook to implement your own VAE models. Experiment with both fully-connected and convolutional architectures and compare their performance on topology optimization datasets.
 
 
-
-
-
-
-
-*Bonus: Train a PINN to reverse the underlying parameters*
 
 in french 
 
@@ -81,17 +67,11 @@ Aknowledgments in the notebooks
 
 **Part 4. Auto-encodeur Variationnel (VAE) pour l'optimisation topologique et VAE Convolutionnel**
 
-- **Aperçu du tutoriel :**  
-  Dans cet exercice, vous apprendrez à construire un auto-encodeur variationnel (VAE) adapté à l'optimisation topologique. Une variante utilisant des couches convolutionnelles — un VAE convolutionnel — est également présentée pour le traitement de données de type image avec une structure spatiale.
-
-- **Ce que vous allez apprendre :**  
   - Les bases des auto-encodeurs variationnels  
   - Comment concevoir et entraîner un modèle VAE  
   - Comment implémenter un VAE convolutionnel pour des tâches d'optimisation topologique  
   - Les bonnes pratiques concernant les fonctions de perte et l'optimisation dans les modèles génératifs  
 
-- **Exercice Pratique :**  
-  Suivez le notebook tutoriel fourni pour implémenter vos propres modèles VAE. Expérimentez avec des architectures entièrement connectées et convolutionnelles et comparez leurs performances sur des jeux de données d'optimisation topologique.
 
 **Online references**
 
