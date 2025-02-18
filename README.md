@@ -32,8 +32,14 @@ Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic osci
 [Solution in video](https://www.youtube.com/watch?v=G_hIppUWcsc)
 
 
+**Part 4. Variational Autoencoder (VAE) for Topology Optimization and Convolutional VAE**
+  - The basics of variational autoencoders  
+  - How to design and train a VAE model  
+  - How to implement a Convolutional VAE for topology optimization tasks  
+  - Best practices for loss functions and optimization in generative models  
 
-*Bonus: Train a PINN to reverse the underlying parameters*
+
+
 
 in french 
 
@@ -59,6 +65,14 @@ Exercice: Entrainer un PINN pour simuler le système (oscillateur harmonique amo
 
 Aknowledgments in the notebooks
 
+**Part 4. Auto-encodeur Variationnel (VAE) pour l'optimisation topologique et VAE Convolutionnel**
+
+  - Les bases des auto-encodeurs variationnels  
+  - Comment concevoir et entraîner un modèle VAE  
+  - Comment implémenter un VAE convolutionnel pour des tâches d'optimisation topologique  
+  - Les bonnes pratiques concernant les fonctions de perte et l'optimisation dans les modèles génératifs  
+
+
 **Online references**
 
 https://neurips.cc/virtual/2021/tutorial/21890
@@ -66,4 +80,6 @@ https://neurips.cc/virtual/2021/tutorial/21890
 http://www.infinitecuriosity.org/vizgp/
 
 https://distill.pub/2019/visual-exploration-gaussian-processes/
+
+[UCLxDeepMind Deep Learning 2020 Lecture (PDF)](https://storage.googleapis.com/deepmind-media/UCLxDeepMind_2020/L11%20-%20UCLxDeepMind%20DL2020.pdf)
 
