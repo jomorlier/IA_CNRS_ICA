@@ -39,7 +39,7 @@ Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic osci
 
 [Solution in video](https://www.youtube.com/watch?v=G_hIppUWcsc)
 
-[Slides P4](https://github.com/jomorlier/IA_CNRS_ICA/blob/main/VAE.pdf)
+[Slides P4](https://github.com/jomorlier/IA_CNRS_ICA/blob/main/VAE_cours_IA.pdf)
 **Part 4. Variational Autoencoder (VAE) for Topology Optimization and Convolutional VAE**
   - The basics of variational autoencoders  
   - How to design and train a VAE model  
