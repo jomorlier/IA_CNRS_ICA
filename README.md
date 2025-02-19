@@ -13,7 +13,7 @@ Notebooks will come
 *Verified on colab*
 
 
-[Slides P1](GPbyHands https://github.com/jomorlier/IA_CNRS_ICA/blob/main/GPbyHand.pdf)
+[Slides P1](https://github.com/jomorlier/IA_CNRS_ICA/blob/main/GPbyHand.pdf)
 **Part 1. Gaussian processes Regression**
 
 Introduction to Gaussian processes, mathematical foundations in 30’
@@ -23,7 +23,7 @@ Exercise: How can I program my GPR 30’
 Beware of noisy data when using sigma_n as noise !
 
 
-[Slides P23](GPbyHands https://github.com/jomorlier/IA_CNRS_ICA/blob/main/GPbyHand.pdf)
+[Slides P23](https://github.com/jomorlier/IA_CNRS_ICA/blob/main/IA_ICA_compressed.pdf)
 **Part 2. Gaussian processes versus neural networks**
 
 
@@ -39,7 +39,7 @@ Exercise: How to Train a PINN to simulate a dynamic system (damped harmonic osci
 
 [Solution in video](https://www.youtube.com/watch?v=G_hIppUWcsc)
 
-[Slides P4](GPbyHands https://github.com/jomorlier/IA_CNRS_ICA/blob/main/GPbyHand.pdf)
+[Slides P4](https://github.com/jomorlier/IA_CNRS_ICA/blob/main/VAE.pdf)
 **Part 4. Variational Autoencoder (VAE) for Topology Optimization and Convolutional VAE**
   - The basics of variational autoencoders  
   - How to design and train a VAE model  
